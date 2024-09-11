@@ -1,15 +1,11 @@
-# Ignore log files
 *.log
 
-# Ignore temporary files
 *.tmp
 *.swp
 
-# Ignore directories
 node_modules/
 build/
 
-# Ignore Python bytecode
 __pycache__/
 *.pyc
 
